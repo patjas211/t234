@@ -5,9 +5,9 @@ layout: page
 parent: TwinCAT 3
 ---
 
-#test 
+**Licencjonowanie**
 
-aaaa
+Poniższa skrócona instrukcja opisuje standardową procedurę licencjonowania TwinCAT 3.
 
 
 ---
