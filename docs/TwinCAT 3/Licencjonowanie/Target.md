@@ -1,6 +1,6 @@
 ---
 title: Target
-parent: TwinCAT3 Licencjonowanie
+parent: Licencjonowanie
 nav_order: 1
 ---
 

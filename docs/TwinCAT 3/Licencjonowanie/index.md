@@ -1,8 +1,8 @@
 ---
-title: Licencjnowanie
+title: Licencjonowanie
 nav_order: 1
 layout: page
-parent: TwinCAT3
+parent: TwinCAT 3
 ---
 
 #test 
