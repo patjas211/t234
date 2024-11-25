@@ -1,6 +1,18 @@
 title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
+color_scheme: dark
 
 url: https://patjas211.github.io/t234/
+enable_copy_code_button: true
+logo: "/assets/images/logo4.png"
+aux_links:
+  "Infosys":
+    - "https://infosys.beckhoff.com/index_en.htm"
+aux_links_new_tab: true
+url: https://infosys.beckhoff.com/index_en.htm
 
+aux_links:
+  Infosys: https://infosys.beckhoff.com/index_en.htm
+
+permalink: pretty
