@@ -1,6 +1,6 @@
 ---
 title: Dongle
-parent: Licencjonowanie
+parent: TwinCAT3 Licencjonowanie
 nav_order: 2
 ---
 
