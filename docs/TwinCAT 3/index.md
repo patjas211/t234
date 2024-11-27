@@ -6,7 +6,7 @@ layout: page
 
 **TwinCAT 3**
 <br>
-[Pobierz]([https://just-the-docs.com](https://github.com/BA-PL/Tx6420-DataBase/archive/refs/heads/main.zip)){: .btn .btn-blue }
+[Pobierz](https://github.com/BA-PL/Tx6420-DataBase/archive/refs/heads/main.zip){: .btn .btn-blue }
 
 
 ![cube](cube.png "TwinCAT Cube")
