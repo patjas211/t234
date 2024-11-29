@@ -13,6 +13,9 @@ Microsoft SQL Server, MySQL itp. Przy prostych zadaniach wystarczy korzystać z 
 w TwinCAT. Konfigurator zapisuje konfigurację do pliku XML, który może być przesłany na urządzenie docelowe.
 Bardziej zaawansowane aplikacje mogą wymagać wykorzystania bloków funkcyjnych z biblioteki Tc3_Database.
 TwinCAT Database Server umożliwia też korzystanie z komend SQL z poziomu programu PLC.
-
+<br>
+![Database](datab.png "Database")
+<br>
 Pobierz przykład kodu tutaj:
+<br>
 [Pobierz](https://github.com/BA-PL/Tx6420-DataBase/archive/refs/heads/main.zip){: .btn .btn-blue }
