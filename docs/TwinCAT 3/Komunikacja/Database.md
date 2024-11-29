@@ -14,7 +14,7 @@ w TwinCAT. Konfigurator zapisuje konfigurację do pliku XML, który może być p
 Bardziej zaawansowane aplikacje mogą wymagać wykorzystania bloków funkcyjnych z biblioteki Tc3_Database.
 TwinCAT Database Server umożliwia też korzystanie z komend SQL z poziomu programu PLC.
 
-![Database](./123.png "Database")
+![Database](https://infosys.beckhoff.com/content/1033/tf6420_tc3_database_server/Images/png/2676031627__Web.png "Database")
 
 Pobierz przykład kodu tutaj:
 <br>
